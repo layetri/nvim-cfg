@@ -1,2 +1,3 @@
 require("layetri")
-print("Hello")
+require("autoclose").setup()
+
